@@ -1,5 +1,4 @@
-<book>
-  <title>XML Basics</title>
-  <author>Jane Doe</author>
-</book>
+<person gender="male">
+  <name>John Doe</name>
+</person>
 
