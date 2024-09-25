@@ -1,5 +1,5 @@
-<person>
-	<name>John Doe</name>
-	<age>30</age>
-	<email>johndoe@example.com</email>
-</person>
+<book>
+  <title>XML Basics</title>
+  <author>Jane Doe</author>
+</book>
+
