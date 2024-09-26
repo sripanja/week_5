@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE library SYSTEM "library.dtd">
+<library>
+    <book id="b001">
+        <title>The Great Gatsby</title>
+        <author>
+            <first_name>F. Scott</first_name>
+            <last_name>Fitzgerald</last_name>
+        </author>
+        <publication>
+            <year>1925</year>
+            <publisher>Scribner</publisher>
+        </publication>
+    </book>
+    <book id="b002">
+        <title>To Kill a Mockingbird</title>
+        <author>
+            <first_name>Harper</first_name>
+            <last_name>Lee</last_name>
+        </author>
+        <publication>
+            <year>1960</year>
+            <publisher>J.B. Lippincott &amp; Co.</publisher>
+        </publication>
+    </book>
+</library>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<note>
+  <to priority="high" type="meeting_notes">George</to>
+  <from>Jane</from>
+  <heading>Reminder</heading>
+  <body>Don't forget our meeting at 9 AM tomorrow!<must_bring>Bring your laptop</must_bring></body>
+</note>
