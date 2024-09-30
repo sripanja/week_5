@@ -3,7 +3,7 @@ from pathlib import Path
 
 # Define the paths to the XML and DTD files
 data_dir = Path.cwd() / 'data'
-xml_file = data_dir / 'library.xml'
+xml_file = data_dir / 'library_2.xml'
 dtd_file = data_dir / 'library.dtd'
 
 # Parse the DTD file

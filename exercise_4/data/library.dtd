@@ -1,10 +1,10 @@
-<!ELEMENT library (book+)>
-<!ELEMENT book (title, author, publication)>
-<!ATTLIST book id ID #REQUIRED>
-<!ELEMENT title (#PCDATA)>
-<!ELEMENT author (first_name, last_name)>
+<!ELEMENT hospital (patient+)>
+<!ELEMENT patient (name, gender, diagnosis, medications)>
+<!ATTLIST patient id CDATA #REQUIRED>
+<!ELEMENT name (first_name, last_name)>
 <!ELEMENT first_name (#PCDATA)>
 <!ELEMENT last_name (#PCDATA)>
-<!ELEMENT publication (year, publisher)>
-<!ELEMENT year (#PCDATA)>
-<!ELEMENT publisher (#PCDATA)>
+<!ELEMENT gender (#PCDATA)>
+<!ELEMENT diagnosis (#PCDATA)>
+<!ELEMENT medications (medication+)>
+<!ELEMENT medication (#PCDATA)>

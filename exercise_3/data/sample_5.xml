@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<patients>
+  <patient id="001">
+    <first_name>John</first_name>
+    <last_name>Doe</last_name>
+    <age>45</age>
+    <gender>Male</gender>
+    <diagnosis>Hypertension</diagnosis>
+    <medications>
+      <medication>Lisinopril</medication>
+      <medication>Amlodipine</medication>
+    </medications>
+  </patient>
+  <patient id="002">
+    <first_name>Jane</first_name>
+    <last_name>Smith</last_name>
+    <age>37</age>
+    <gender>Female</gender>
+    <diagnosis>Diabetes</diagnosis>
+    <medications>
+      <medication>Metformin</medication>
+      <medication>Insulin</medication>
+    </medications>
+  </patient>
+</patients>
